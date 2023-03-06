@@ -1,1 +1,0 @@
-# scm-kedaireka2022
