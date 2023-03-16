@@ -35,10 +35,10 @@
 		}
 	},
 	"organizations": {
-		"Org1MSP": {
+		"Coe1Petani": {
 			"mspid": "Coe1Petani",
 			"adminPrivateKey": {
-				"path": "/tmp/crypto/peerOrganizations/coe1.dinus.com/users/Admin@ocoe1.dinus.com/msp/keystore/COE1_MSPKEY"
+				"path": "/tmp/crypto/peerOrganizations/coe1.dinus.com/users/Admin@coe1.dinus.com/msp/keystore/COE1_MSPKEY"
 			},
 			"peers": [
 				"peer0.coe1.dinus.com"
